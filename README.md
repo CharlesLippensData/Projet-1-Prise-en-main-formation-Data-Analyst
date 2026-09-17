@@ -45,7 +45,7 @@ Livrables disponibles dans le dossier `CL_P1_prenez-en-main-votre-formation-de-d
 
 ## Résultat
 
-Projet **validé**. Retour d'évaluation : bonne capacité de présentation et **compréhension forte des enjeux du métier** ; axe d'amélioration identifié sur la qualité des visuels.
+Projet **validé** (évaluation du 24 octobre 2025). Trois compétences validées : identifier les soft skills du métier, adopter la posture d'un Data Analyst, définir le cadre de la formation. Points forts : bonne capacité de présentation, **compréhension forte des enjeux du métier**. Axe d'amélioration : travailler les visuels. Soutenance : bonne présentation orale, attentes claires et démarche validée.
 
 ---
 
