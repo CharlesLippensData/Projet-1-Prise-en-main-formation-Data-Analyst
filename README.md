@@ -1,4 +1,4 @@
-# Projet 1 — Prenez en main votre formation de Data Analyst
+# Projet 1 : Prenez en main votre formation de Data Analyst
 
 ![Statut](https://img.shields.io/badge/Statut-Valid%C3%A9-2ea44f)
 ![Charge](https://img.shields.io/badge/Charge-14h-blue)
